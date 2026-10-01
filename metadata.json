@@ -1,0 +1,6 @@
+{
+  "name": "N VPN",
+  "description": "Fast. Safe. Unlimited. Modern multi-protocol VPN client with real-time telemetry, WireGuard/OpenVPN/V2Ray/Shadowsocks configuration engine, Kill Switch, and zero-log security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
